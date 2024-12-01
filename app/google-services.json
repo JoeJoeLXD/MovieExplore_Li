@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "531252940784",
+    "firebase_url": "https://prog3210-cd2ce-default-rtdb.firebaseio.com",
+    "project_id": "prog3210-cd2ce",
+    "storage_bucket": "prog3210-cd2ce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531252940784:android:dd311a0816afa630a41735",
+        "android_client_info": {
+          "package_name": "com.example.assignment3_li_xin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_KzY0A_dOJeMppkGBym8Ggkw9dBnYGxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531252940784:android:6aa7c898a3790c53a41735",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth_lxd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_KzY0A_dOJeMppkGBym8Ggkw9dBnYGxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531252940784:android:29e843be2a592251a41735",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth_lxd2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_KzY0A_dOJeMppkGBym8Ggkw9dBnYGxg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

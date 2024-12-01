@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_search"
+        android:icon="@drawable/ic_search"
+        android:title="@string/search_bottom_nav" />
+    <item
+        android:id="@+id/nav_favorites"
+        android:icon="@drawable/baseline_favorite_24"
+        android:title="@string/favorites_bottom_nav" />
+</menu>
+

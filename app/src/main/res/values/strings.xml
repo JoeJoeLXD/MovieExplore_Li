@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">assignment3_li_xin</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="movie_poster_desc">Movie Poster</string>
+    <string name="omdb_api_key">5d005d1</string>
+    <string name="search_hint">Enter movie title</string>
+    <string name="back_to_search_page">Back to Search Page</string>
+    <string name="plot_not_available">Plot not available</string>
+    <string name="search">Search</string>
+    <string name="search_movies">Search Movies</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="year_placeholder">Year: Unknown</string>
+    <string name="rating_placeholder">Rating: Unknown</string>
+    <string name="studio_placeholder">Director: Unknown</string>
+    <string name="search_field_desc">Enter movie title to search</string>
+    <string name="search_button_desc">Tap to search for movies</string>
+    <string name="no_results_found">No results found.</string>
+    <string name="login_button_text">Login</string>
+    <string name="register_text">Do not have an account? Register</string>
+    <string name="confirm_password_hint">Confirm Password</string>
+    <string name="register_button">Register</string>
+    <string name="login_text">Already Have an Account? Please Login</string>
+    <string name="favorite_icon_desc">Favorite Icon</string>
+    <string name="movie_explore">Movie Explore</string>
+    <string name="search_movies_button">Search Movies</string>
+    <string name="my_favorite">My Favorite</string>
+    <string name="my_favorite_movies">My Favorite Movies</string>
+    <string name="favorite_details">Favorite Details</string>
+    <string name="edit_movie_plot">Edit Movie Plot</string>
+    <string name="save_changes">Update</string>
+    <string name="search_bottom_nav">Search</string>
+    <string name="favorites_bottom_nav">Favorites</string>
+</resources>
